@@ -22,7 +22,7 @@
     "connect-ensure-login": "^0.1.1",
     "dotenv": "^8.0.0",
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "get-twitter-bearer-token": "^1.0.0",
     "mongoose": "^5.7.4",
